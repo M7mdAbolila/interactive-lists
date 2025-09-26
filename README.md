@@ -3,7 +3,8 @@
 An example Flutter app that showcases an interactive task list with reordering, swipe-to-delete, confirmation dialogs, and rich undo feedback. It is designed as a teaching/demo project for experimenting with ReorderableListView and Dismissible widgets together.
 
 ## Demo
-<video controls src="task manager.mp4" title="Title"></video>
+
+https://github.com/user-attachments/assets/b828c0e1-1675-4e83-bc93-a541733f4cf5
 
 ## Features
 
